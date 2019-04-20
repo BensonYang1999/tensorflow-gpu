@@ -1,5 +1,5 @@
 Bootstrap: docker
-From: bensonyang88/hpl-openmpi:v4
+From: tensorflow-rdma:v4
 %environment
 
 	#Environment variables
