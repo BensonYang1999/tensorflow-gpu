@@ -1,2 +1,2 @@
 Bootstrap: docker
-From: tensorflow-rdma:v4
+From: bensonyang88/tensorflow-rdma:v4
