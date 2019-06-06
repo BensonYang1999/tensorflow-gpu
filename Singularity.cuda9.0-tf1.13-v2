@@ -1,2 +1,1 @@
-Bootstrap: docker
-From: bensonyang88/tensorflow-rdma:cuda9.0-tf1.13-v2
+
